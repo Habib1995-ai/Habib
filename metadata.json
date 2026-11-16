@@ -1,0 +1,6 @@
+{
+  "name": "انیشتین همراته",
+  "description": "حل هوشمند مسائل ریاضی و فیزیک با دوربین گوشی - انیشتین همراته",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
